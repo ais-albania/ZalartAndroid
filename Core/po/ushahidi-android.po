@@ -31,15 +31,15 @@ msgstr ""
 
 
 #Key: app_name
-msgid "Ushahidi"
+msgid "ZALART"
 msgstr ""
 
 #Key: add_incident
-msgid "Add Report"
+msgid "Shto Raport"
 msgstr ""
 
 #Key: view_incident
-msgid "View Reports"
+msgid "Shiko Raportet"
 msgstr ""
 
 #Key: incident_details
