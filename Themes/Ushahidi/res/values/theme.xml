@@ -1,13 +1,13 @@
 <resources>
 
     <!-- DEPLOYMENT INFORMATION -->
-    <string name="app_title">Ushahidi</string>
-    <string name="deployment_url" />
-    <string name="team_url">http://ushahidi.com/about-us/team</string>
-    <string name="media_url">http://www.ushahidi.com</string>
-    <string name="twitter_url">http://twitter.com/ushahidi</string>
-    <string name="facebook_url">http://www.facebook.com/ushahidi</string>
-    <string name="contact_url">http://ushahidi.com/contact-us</string>
+    <string name="app_title">ZA\'LART</string>
+    <string name="deployment_url">http://www.zalart.al</string>
+    <string name="team_url">http://www.ais.al</string>
+    <string name="media_url">http://www.shqiperiacom.info</string>
+    <string name="twitter_url">https://twitter.com/AIScience</string>
+    <string name="facebook_url">https://www.facebook.com/AlbanianInstituteOfScience</string>
+    <string name="contact_url">http://ais.al</string>
 
     <!-- DEPLOYMENT PROVIDER AUTHORITIES. USUALLY PACKAGE NAME AND CLASS NAME Eg. com.ushahidi.android.app.data.deploymentprovider -->
     <string name="provider_authorities">com.ushahidi.android.app.data.deploymentprovider</string>
@@ -87,15 +87,13 @@
     
 
     <!-- DEPLOYMENT TEXT -->
-    <string name="about_text">Ushahidi is a non-profit tech company that develops
-		free and open source software for information collection,
-		visualization and interactive mapping. We built the Ushahidi platform
-		as a tool to easily crowdsource information using multiple channels,
-		including SMS, email, Twitter and the web.</string>
+    <string name="about_text">
+        Inisiativa eshte e Institutit Shqiptar te Shkencave mbeshtetur financiarisht nga Open Society Foundation for Albania
+	</string>
 	 <!--GOOGLE MAPS API-->
     <!--  Dev Key  -->
-    <string name="google_map_api_key_dev">AIzaSyCMm_TKMClnukKXP9DqoegNJbv-eNCZqQI</string> 
+    <string name="google_map_api_key_dev">AIzaSyCJifPIrZii1YCzsgAlFORvliCh6Yus8d8</string> 
     <!-- Live Key -->
-    <string name="google_map_api_key">AIzaSyDfmnptOeDh0XVELv3WJkyMbckdtMW7Aiw</string>
+    <string name="google_map_api_key">AIzaSyCJifPIrZii1YCzsgAlFORvliCh6Yus8d8</string>
 
 </resources>
